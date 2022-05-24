@@ -3,10 +3,9 @@
 
 - 🌱 I’m currently studing **in Yandex.Practicum**
 
-- 📫 How to reach me **michailbaldin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">**michailbaldin@gmail.com** **@mickbaldin**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
