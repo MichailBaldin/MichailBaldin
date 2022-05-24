@@ -5,7 +5,9 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">**michailbaldin@gmail.com** **@mickbaldin**
+<p align="left">michailbaldin@gmail.com
+</p>
+<p align="left">@mickbaldin
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
