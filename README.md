@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
-<h3 align="center">I'm a begginer data analyst</h3>
+<h3 align="center">I'm a begginer Data Scientist</h3>
 
 - 🌱 I’m currently studing **in Yandex.Practicum**
 
