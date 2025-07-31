@@ -88,7 +88,7 @@ _Создаю высокопроизводительные backend систем�
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/твой_leetcode_username?theme=dark&font=Noto%20Sans&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mick11?theme=dark&font=Noto%20Sans&ext=heatmap)
 
 </div>
 
