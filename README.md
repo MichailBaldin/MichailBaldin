@@ -4,7 +4,7 @@
   
 ### Backend Разработчик | Go Engineer | Системный Архитектор
 
-*Создаю высокопроизводительные backend системы с чистым, масштабируемым кодом*
+_Создаю высокопроизводительные backend системы с чистым, масштабируемым кодом_
 
 </div>
 
@@ -25,16 +25,19 @@
 <div align="center">
 
 ### Языки и фреймворки
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend и базы данных
+
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Echo](https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps и инструменты
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -76,6 +79,16 @@
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=MichailBaldin&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## LeetCode Достижения
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/твой_leetcode_username?theme=dark&font=Noto%20Sans&ext=heatmap)
 
 </div>
 
