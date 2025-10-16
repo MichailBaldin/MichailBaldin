@@ -46,7 +46,7 @@ Building high-performance backend systems with clean, scalable code.
 
 --- -->
 
-## GitHub Статистика
+## GitHub
 
 <div align="center">
   
