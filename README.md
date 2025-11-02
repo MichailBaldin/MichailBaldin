@@ -60,8 +60,13 @@ Building high-performance backend systems with clean, scalable code.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MichailBaldin&theme=tokyonight)](https://git.io/streak-stats)
 
 </div> -->
+ 
+## LeetCode
+<div align="center">
 
----
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mick11?theme=dark&font=Noto%20Sans&ext=heatmap)
+
+</div>
 
 <!-- ## Избранные проекты
 
